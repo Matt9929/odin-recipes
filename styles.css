@@ -1,0 +1,31 @@
+*{
+    font-family: Helvetica, "Segoe UI", sans-serif;
+}
+
+div{
+    background-color: aliceblue;
+    padding: 10px 200px;
+    margin: 0px 100px;
+}
+
+.title{
+    background-color: #98ecec;
+    margin: 10px 50px;
+    margin-bottom: 40px;
+    padding: 24px 16px;
+    text-align: center;
+}
+
+.menu{
+    background-color: #c2f0f0;
+    font-size: 24px;
+    margin: 25px 50px;
+    padding: 24px;
+    text-align: center;
+    list-style: none;
+}
+
+.pic{
+    display: block;
+    margin:auto;
+}
